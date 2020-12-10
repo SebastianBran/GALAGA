@@ -5,4 +5,7 @@ Este trabajo fue elaborado por Estefano Sebastian Bran Zapata como parte del cur
 ![alt text](https://github.com/SebastianBran/GALAGA/blob/master/Images/Captura%20de%20pantalla%202020-12-10%20121311.jpg)
 ![alt text](https://github.com/SebastianBran/GALAGA/blob/master/Images/Captura%20de%20pantalla%202020-12-10%20121425.jpg)
 ![alt text](https://github.com/SebastianBran/GALAGA/blob/master/Images/Captura%20de%20pantalla%202020-12-10%20121459.jpg)
+
+## DEMO
+
 ![alt text](https://github.com/SebastianBran/GALAGA/blob/master/Images/Video_1607605750.gif)
