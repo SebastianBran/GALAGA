@@ -805,9 +805,9 @@ void Data(Ship* ship, int time) {
 
 	/*DRAW LIVES*/
 	for (int i = 0; i < ship->lives + 1; i++) {
-		gotoxy(89 + i * 5, 15); cout << "     ";
-		gotoxy(89 + i * 5, 16); cout << "     ";
-		gotoxy(89 + i * 5, 17); cout << "     ";
+		gotoxy(89 + i * 5, 19); cout << "     ";
+		gotoxy(89 + i * 5, 20); cout << "     ";
+		gotoxy(89 + i * 5, 21); cout << "     ";
 	}
 	for (int i = 0; i < ship->lives; i++) {
 		color(WHITE);
